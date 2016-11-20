@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="100dp"
         android:gravity="center_horizontal"
-        android:text="HOME"
+        android:text="RESEP PECEL"
         android:textSize="45dp"
         android:textStyle="bold" />
 
@@ -25,7 +25,29 @@
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
         android:gravity="center_horizontal"
-        android:text="Edit fragment_home.xml to change the appearance"
+        android:text="Bahan:
+250 gr bayam, siangi, buang batangnya
+250 gr tauge, bersihkan akarnya
+250 gr kacang panjang, potong 5 cm
+250 gr bunga turi, buang putiknya
+Bumbu:
+350 gr kacang tanah, goreng, haluskan
+4 lembar daun jeruk, iris halus
+2 sdm air asam
+300 ml air
+4 buah cabai rawit merah
+1 siung bawang putih
+0.5 cm kencur
+½ sdt terasi bakar
+3 sdm gula merah iris
+1 sdm makan garam
+
+
+Cara membuat
+Rebus bayam, bunga turi, kacang panjang, dan tauge bergantian dengan air mendidih. Tiriskan, sisihkan.
+Campur kacang tanah halus dengan bumbu lainnya, haluskan kembali. Campur dengan air asam. Uleni dengan sendok hingga tercampur rata.
+Siapkan piring saji, susun sayuran rebus.
+Siapkan mangkok sambal, cairkan bumbu sambal dengan air. Sajikan."
         android:textSize="12dp" />
 
 </RelativeLayout>

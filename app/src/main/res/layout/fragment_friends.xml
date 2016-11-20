@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="100dp"
         android:gravity="center_horizontal"
-        android:text="HOME"
+        android:text="SOTO AYAM"
         android:textSize="45dp"
         android:textStyle="bold" />
 
@@ -25,7 +25,40 @@
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
         android:gravity="center_horizontal"
-        android:text="Edit fragment_home.xml to change the appearance"
+        android:text="Bahan :
+
+- Daging sapi sandung lamur 500 gram
+- Air 3 liter
+- 1 dengkul sapi, belah
+- Daun jeruk 3 lembar
+- Lengkuas1 ibu jari, memarkan
+- Serai 1 batang, memarkan
+- Minyak 5 sendok, untuk menumis
+- Royco Serbaguna Rasa Sapi 3 bungkus
+- Daun bawang 2 tangkai, potong ukuran 1 cm
+Bumbu Halus :
+
+- Kluwak 2 buah
+- Bawang merah 7 butir
+- Bawang putih 3 butir
+- Kunyit 2 cm
+- Jahe 2 cm
+- Ketumbar, 1 sendok teh sangrai
+- Lada ½ sendok teh
+- Garam 2 sendok teh
+- Gula 2 sendok teh
+
+Haluskan bumbu dia atas lalu sisihkan.
+Cara Membuatnya :
+
+1. Siapkan Panci dan masukkan air lalu rebus hingga mendidih.
+2. Masukkan daging sapi dan dengkul sapi kemudian rebus hingga setengah lunak saja. Angkat dan potong daging sesuai selera. Sisihkan.
+3. Masukkan Royco Serbaguna Rasa Sapi ke dalam air rebusan daging tadi sehingga menjadi kaldu.
+4. Panaskan minyak pada wajan, tumis bumbu halus, lengkuas, daun jeruk, dan juga serai hingga matang dan harum.
+5. Masukkan dan campurkan potongan daging tadi ke dalam tumisan, aduk hingga merata dan masak hingga bumbu meresap.
+6. Terakhir masukkan tumisan daging ke dalam kuah kaldu yang telah di buat tadi.
+7. Masak hingga daging empuk menggunakan api kecil saja.
+8. Angkat dan sajikan selagi masih hangat, jangan lupa tambahkan pelengkap seperti toge, jeruk nipis dan juga telur asin (lihat pada gambar)."
         android:textSize="12dp" />
 
 </RelativeLayout>

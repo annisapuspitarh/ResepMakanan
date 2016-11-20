@@ -14,7 +14,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginTop="100dp"
         android:gravity="center_horizontal"
-        android:text="HOME"
+        android:text="RESEP SPAGHETTI"
         android:textSize="45dp"
         android:textStyle="bold" />
 
@@ -25,7 +25,35 @@
         android:layout_centerInParent="true"
         android:layout_marginTop="10dp"
         android:gravity="center_horizontal"
-        android:text="Edit fragment_home.xml to change the appearance"
+        android:text="Bahan Spaghetti Bolognaise :
+150 gram spagheti, direbus
+1 siung bawang putih, cincang halus
+1 sendok makan minyak untuk menumis
+1/2 sendok teh seledri cincang, peras
+
+Bahan Tumisan:
+100 gram daging giling
+50 gram jamur kancing, dipotong 3 bagian
+1/2 buah bawang bombay, dicincang halus
+2 buah tomat merah, diseduh, (dibuang biji dan kulitnya, kemudian dicincang kasar)
+5 sendok makan saus tomat
+1 sendok makan pasta tomat
+3/4 sendok teh garam
+1/4 sendok teh merica bubuk
+3/4 sendok teh gula pasir
+200 ml air
+1/2 sendok teh oregano
+2 sendok makan minyak untuk menumis
+1/2 sendok teh basil
+
+
+
+Cara Membuat Spaghetti Bolognaise :
+
+Langkah pertama, panaskan minyak, kemudian tumis bawang putih hingga harum. Setelah itu masukkan spaghetti dan seledri, Lalu aduk rata, kemudian angkat dan sisihkan.
+Langkah kedua, panaskan minyak. Kemudian tumis bawang bombay hingga harum dan masukkan daging giling.Setelah itu aduk hingga terlihat berubah warna.
+Selanjutnya, tambahkan jamur kancing dan tomat. kemudian aduk hingga rata. Setelah itu, masukkan saus tomat, pasta tomat, gula pasir, garam dan merica bubuk. Kemudian aduk lagi hingga rata.
+Terakhir, tuang air, kemudian masak hingga matang dan terlihat meresap. Setelah itu tambahkan oregano dan basil. Lalu aduk rata dan tuang keatas spaghetti, kemudian Spaghetti Bolognaise buatan anda siap untuk disajikan."
         android:textSize="12dp" />
 
 </RelativeLayout>
