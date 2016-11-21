@@ -23,11 +23,11 @@ https://drive.google.com/open?id=0B3EKJ5WtU7yOXzZXMVo5enpXUzg
 -    NIS : 
 -    User github : feisalramdhan
 -    Nama Sekolah : SMK Telkom Malang
-- 3. Nama : Muh. Luthfi Pamungkas
+- 3. Nama : Moch. Lutfi Pamungkas
 -    Kelas : XIIRPL2
 -    No Urut : 25
--    NIS : 
--    User github : Ipungipunk
+-    NIS : 43741272
+-    User github : Lutfiipunk
 -    Nama Sekolah : SMK Telkom Malang
 - 4. Nama : Muh. Sandy Argya
 -    Kelas : XIIRPL2
