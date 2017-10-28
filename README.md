@@ -35,3 +35,5 @@ https://drive.google.com/open?id=0B3EKJ5WtU7yOXzZXMVo5enpXUzg
 -    NIS : 
 -    User github : Sandyargya
 -    Nama Sekolah : SMK Telkom Malang
+
+-nice
